@@ -7,22 +7,10 @@ export default function Projects() {
       image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop"
     },
     {
-      title: "Galaxy-birth-D",
-      description: "High-performance web application successfully deployed to production.",
-      tech: ["Three.js", "Vercel"],
-      image: "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?q=80&w=800&auto=format&fit=crop"
-    },
-    {
       title: "jobseeker App",
       description: "Job seeking mobile application featuring complex state management.",
       tech: ["Flutter", "Provider"],
       image: "https://images.unsplash.com/photo-1617042375876-a13e36732a04?q=80&w=800&auto=format&fit=crop"
-    },
-    {
-      title: "Astra Warehouse Management System",
-      description: "Backend system implementing strict Cloud Firestore database rules and architecture.",
-      tech: ["Flutter", "Firebase"],
-      image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=800&auto=format&fit=crop"
     },
     {
       title: "Absensi godsseo",
@@ -31,8 +19,8 @@ export default function Projects() {
       image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=800&auto=format&fit=crop"
     },
     {
-      title: "Absensi Green Regency",
-      description: "Mobile attendance system designed and built for Green Regency.",
+      title: "Absensi Green Living Regency",
+      description: "Mobile attendance system designed and built for Green Living Regency.",
       tech: ["Flutter", "Firebase"],
       image: "https://images.unsplash.com/photo-1497493292307-31c376b6e479?q=80&w=800&auto=format&fit=crop"
     },
