@@ -30,7 +30,7 @@ export default function About() {
           <div className="mt-8 grid grid-cols-2 gap-4 border-t border-white/10 pt-6">
             <div>
               <h4 className="text-white font-bold mb-1">Location</h4>
-              <p className="text-sm text-orange-500">Malang, Indonesia</p>
+              <p className="text-sm text-orange-500">Surabaya, Indonesia</p>
             </div>
             <div>
               <h4 className="text-white font-bold mb-1">Interests</h4>
